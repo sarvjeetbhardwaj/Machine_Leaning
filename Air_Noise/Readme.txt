@@ -15,4 +15,4 @@ This problem has the following inputs:
 The only output is:
 6. Scaled sound pressure level, in decibels.
 
-Deployemnet is through Heroku
+Deployemnet is through Heroku :: https://airfoilpredict.herokuapp.com/

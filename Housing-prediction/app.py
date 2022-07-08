@@ -7,6 +7,5 @@ app=Flask(__name__)
 def index():
     return "CI CD pipeline has been established."
 
-
 if __name__=="__main__":
     app.run(debug=True)

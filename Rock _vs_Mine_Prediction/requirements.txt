@@ -1,0 +1,13 @@
+Python Version >=3.5
+
+Python Libraries required ::
+
+numpy
+pandas
+sklearn
+os
+sys
+matplotlib
+seaborn
+
+Use pip install <library_name> to install the required libraries.

@@ -1,0 +1,16 @@
+#### Software and Tools Requirements 
+1.GitHub Account
+2.HerokuAccount
+3.VSCODEIDE
+4.GitCli
+
+Create a new environment
+
+conda create -p venv python==3.8 -y
+
+Python Libraries required ::
+Flask
+sklearn
+pandas
+numpy
+matplotlib
